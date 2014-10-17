@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C7C7043-3366-4F64-BF9D-47C40D00F814</string>
+	<key>IDESourceControlProjectName</key>
+	<string>INSIDE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CA81CC7F-5100-4A0D-9438-7D4D04218FC4</key>
+		<string>https://github.com/bessieyy/INSIDE.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>INSIDE.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CA81CC7F-5100-4A0D-9438-7D4D04218FC4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bessieyy/INSIDE.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CA81CC7F-5100-4A0D-9438-7D4D04218FC4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA81CC7F-5100-4A0D-9438-7D4D04218FC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>INSIDE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
